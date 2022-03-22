@@ -449,7 +449,7 @@ please preview your site before committing, and make sure to run
 {% endcomment %}
 
 <h2 id="setup">Setup</h2>
-
+<p> Prior to the session please download the <a href="http://swcarpentry.github.io/r-novice-inflammation/setup.html">data set</a>
 <p>
   To participate in a
   {% if site.carpentry == "swc" %}
