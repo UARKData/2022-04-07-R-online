@@ -419,6 +419,7 @@ The contents of this session will include:
 <li>4.  Analysing multiple data sets</li>
 <li>5.  Making choices</li>
 </p>
+  
 {% comment %}
 {% if site.carpentry == "swc" %}
 {% include swc/schedule2.html %}
@@ -430,7 +431,8 @@ The contents of this session will include:
 This workshop is teaching a lesson in [The Carpentries Incubator](https://carpentries-incubator.org/).
 Please check [the lesson homepage]({{ site.incubator_lesson_site }}) for a list of lesson sections and estimated timings.
 {% endif %}
-{% endcomment}
+{% endcomment %}
+  
 {% comment %}
 Edit/replace the text above if you want to include a schedule table.
 See the contents of the _includes/custom-schedule.html file for an example of
