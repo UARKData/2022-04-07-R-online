@@ -408,6 +408,7 @@ rows to the table if you wish to break down the schedule
 further. To use this custom schedule here, replace the block
 of code below the Schedule `<h2>` header below with
 `{% include custom-schedule.html %}`.
+{% endcomment %}
 
 <h2 id="schedule">Schedule</h2>
 
@@ -433,7 +434,6 @@ The lesson taught in this workshop is being piloted and a precise schedule is ye
 {% endif %}
 
 <hr/>
-{% endcomment %}
 
 
 {% comment %}
